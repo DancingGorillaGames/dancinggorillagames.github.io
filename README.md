@@ -22,7 +22,6 @@ The Dancing Gorilla Games website: plain HTML and CSS, published with GitHub Pag
 
 ## Before launch
 
-- Replace the `[CONTACT EMAIL]` and `[POSTAL ADDRESS OR COUNTRY]` placeholders (highlighted on the pages).
 - Put the Play Store link on the Tidy Belt page and the home page once the listing is public.
 - In Play Console, set the **website** to the site's address, so ad networks find `app-ads.txt`.
 
